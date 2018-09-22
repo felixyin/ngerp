@@ -1671,7 +1671,7 @@ msgstr "技术支持"
 #. module: web
 #: model:ir.ui.view,arch_db:web.login_layout
 msgid "Powered by <span>Odoo</span>"
-msgstr "由<span>Odoo</span>提供技术支持"
+msgstr "由<span>FelixYin</span>提供技术支持"
 
 #. module: web
 #. openerp-web
