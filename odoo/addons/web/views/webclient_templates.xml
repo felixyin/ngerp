@@ -214,7 +214,7 @@
 
     <template id="web.login_layout" name="Login Layout">
         <t t-call="web.layout">
-            <t t-set="html_data" t-value="{'style': 'height: 100%;'}"/>
+            <t t-set="html_data" t-value="{'style': 'margin-top: 80px; height: 100%;'}"/>
             <t t-set="head">
                 <t t-call-assets="web.assets_common" t-js="false"/>
                 <t t-call-assets="web.assets_frontend" t-js="false"/>
