@@ -2,7 +2,7 @@
 {
     'name': '拣货单和打包',
     'version': '11.11',
-    'author': "上海开阖软件有限公司",
+    'author': "尹彬",
     'summary': ' ',
     'category': 'gooderp',
     'description':

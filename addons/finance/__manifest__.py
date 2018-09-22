@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
     'name': "GOODERP 会计模块",
-    'author': "开阖软件(开阖Jason 开阖静静gilbert@osbzr.com and 社区的贡献)",
-    'website': "http://www.osbzr.com",
+    'author': "尹彬(开阖Jason 开阖静静gilbert@osbzr.com and 社区的贡献)",
+    'website': "http://www.yinbin.ink",
     'category': 'gooderp',
     "description":
     '''
-                          该模块实现了 GoodERP 中 会计 的功能。
+                          该模块实现了 NanguERP 中 会计 的功能。
 
                            可以创建新的会计凭证；
                            可以定义会计凭证模板；

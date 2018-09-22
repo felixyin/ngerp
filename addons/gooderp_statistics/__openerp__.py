@@ -3,7 +3,7 @@
     "name": "GOODERP Statistics",
     "version": '11.11',
     "author": 'ZhengXiang',
-    "website": "http://www.osbzr.com",
+    "website": "http://www.yinbin.ink",
     "category": "Generic Modules",
     "description": """
     """,

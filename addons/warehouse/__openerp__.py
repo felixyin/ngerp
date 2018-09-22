@@ -23,12 +23,12 @@
     "name": "GOODERP Warehouse Management",
     "version": '11.11',
     "author": 'ZhengXiang',
-    "website": "http://www.osbzr.com",
+    "website": "http://www.yinbin.ink",
     "category": "Generic Modules",
     "depends": ['goods', 'money'],
     "description":
     '''
-                        该模块实现了 GoodERP 中 仓库管理的功能。
+                        该模块实现了 NanguERP 中 仓库管理的功能。
 
                         通过创建或者处理销售发货单/销售退货单，来完成出/入库。
                         通过创建或者处理采购入库单/采购退货单，来完成入/出库。

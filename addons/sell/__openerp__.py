@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    OpenERP, Open Source Management Solution
-#    Copyright (C) 2014 上海开阖软件有限公司 (http://www.osbzr.com).
+#    Copyright (C) 2014 尹彬 (http://www.yinbin.ink).
 #    All Rights Reserved
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -22,7 +22,7 @@
 {
     'name': 'GOODERP 销售模块',
     'author': 'jeff@osbzr.com,flora@osbzr.com',
-    'website': 'https://www.osbzr.com',
+    'website': 'https://www.yinbin.ink',
     'category': 'gooderp',
     'description':
     '''

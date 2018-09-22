@@ -3,7 +3,7 @@
 #
 #    Auto reset sequence by year,month,day
 #    Copyright 2013 wangbuke <wangbuke@gmail.com>
-#    Copyright 2017 开阖软件 <www.osbzr.com>   port to GoodERP v11
+#    Copyright 2017 尹彬 <www.yinbin.ink>   port to NanguERP v11
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as

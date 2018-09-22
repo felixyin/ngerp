@@ -7,11 +7,11 @@
 
     'description':
     '''
-                        该模块实现了 GoodERP 中客户跟进过程管理的功能。
+                        该模块实现了 NanguERP 中客户跟进过程管理的功能。
     ''',
 
-    'author': "开阖软件",
-    'website': "http://www.osbzr.com",
+    'author': "尹彬",
+    'website': "http://www.yinbin.ink",
 
     'category': 'gooderp',
     'version': '11.11',

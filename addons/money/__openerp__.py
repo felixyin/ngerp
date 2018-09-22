@@ -2,11 +2,11 @@
 {
     'name': "GOODERP 出纳模块",
     'author': "judy@osbzr.com",
-    'website': "http://www.osbzr.com",
+    'website': "http://www.yinbin.ink",
     'category': 'gooderp',
     "description":
     '''
-                            该模块实现了 GoodERP 中 出纳 的功能。
+                            该模块实现了 NanguERP 中 出纳 的功能。
 
                             通过创建收付款单，审核后来完成预收预付的功能；如果有结算单明细行，可以完成核销的功能。
                             可以查看所有结算单。

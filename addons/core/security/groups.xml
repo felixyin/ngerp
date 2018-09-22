@@ -4,7 +4,7 @@
 		<!--
 		为了满足用户界面的权限设置需要，将用户组分成这些功能类别 
 		-->
-		<!-- 通用，所有GoodERP模块使用这个类别 -->
+		<!-- 通用，所有NanguERP模块使用这个类别 -->
 		<record model="ir.module.category" id="Gooderp">
 			<field name="name">Gooderp</field>
 			<field name="sequence">1</field>

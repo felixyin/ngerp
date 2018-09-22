@@ -7,7 +7,7 @@
     'category': 'Tools',
     'description':
     '''
-                            该模块实现了 GoodERP 可配置的首页系统。
+                            该模块实现了 NanguERP 可配置的首页系统。
     ''',
     'data': [
         'security/groups.xml',

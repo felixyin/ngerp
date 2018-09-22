@@ -3,7 +3,7 @@
     "name": "Common Dialog",
     "version": '11.11',
     "author": 'ZhengXiang',
-    "website": "http://www.osbzr.com",
+    "website": "http://www.yinbin.ink",
     "category": "Generic Modules",
     "description": """
         添加一个通用的wizard，可以被函数调用

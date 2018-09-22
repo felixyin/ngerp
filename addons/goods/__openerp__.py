@@ -23,7 +23,7 @@
     "name": "GOODERP Goods Management",
     "version": '11.11',
     "author": 'ZhengXiang',
-    "website": "http://www.osbzr.com",
+    "website": "http://www.yinbin.ink",
     "category": "gooderp",
     "depends": ['core'],
     "description":

@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'GoodERP开源会计软件',
+    'name': 'NanguERP开源会计软件',
     'version': '11.11',
-    'author': '上海开阖软件有限公司',
+    'author': '尹彬',
     'website': 'www.gooderp.org',
-    'summary': 'GoodERP会计解决方案包',
+    'summary': 'NanguERP会计解决方案包',
     'category': 'gooderp',
     'description':
     '''

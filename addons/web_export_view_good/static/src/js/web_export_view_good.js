@@ -1,6 +1,6 @@
 //  @@@ web_export_view custom JS @@@
 //#############################################################################
-//   Copyright (C) 2016 开阖有限公司 (<http://www.osbzr.com>)(学习原oca模块 web_export_view)
+//   Copyright (C) 2016 开阖有限公司 (<http://www.yinbin.ink>)(学习原oca模块 web_export_view)
 //    This program is free software: you can redistribute it and/or modify
 //    it under the terms of the GNU Affero General Public License as published
 //    by the Free Software Foundation, either version 3 of the License, or

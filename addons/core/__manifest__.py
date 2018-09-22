@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 {
     'name': "GOODERP 核心模块",
-    'author': "开阖软件",
+    'author': "尹彬",
     'summary': '隐藏Odoo内置技术复杂性，增加基本权限组',
-    'website': "http://www.osbzr.com",
+    'website': "http://www.yinbin.ink",
     'category': 'gooderp',
     "description":
     '''

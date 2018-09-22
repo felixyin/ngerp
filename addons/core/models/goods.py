@@ -93,7 +93,7 @@ class Goods(models.Model):
     cost = fields.Float(u'成本',
                         digits=dp.get_precision('Price'))
     cost_method = fields.Selection(CORE_COST_METHOD, u'存货计价方法',
-                                   help=u'''GoodERP仓库模块使用先进先出规则匹配
+                                   help=u'''NanguERP仓库模块使用先进先出规则匹配
                                    每次出库对应的入库成本和数量，但不实时记账。
                                    财务月结时使用此方法相应调整发出成本''')
     tax_rate = fields.Float(u'税率(%)',

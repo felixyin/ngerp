@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "GoodERP Access Control Goods 模块",
-    'author': "开阖软件",
-    'website': "http://www.osbzr.com",
+    'name': "NanguERP Access Control Goods 模块",
+    'author': "尹彬",
+    'website': "http://www.yinbin.ink",
     'category': 'gooderp',
-    'summary': 'GoodERP 商品 读写建删权限控制',
+    'summary': 'NanguERP 商品 读写建删权限控制',
     "description":
     '''
 该模块添加了 创建商品组，该组成员可以对商品进行增删改查，普通用户只能查看。

@@ -2,7 +2,7 @@
 {
     'name': "GOODERP 采购模块",
     'author': "flora@osbzr.com",
-    'website': "http://www.osbzr.com",
+    'website': "http://www.yinbin.ink",
     'category': 'gooderp',
     "description":
     '''

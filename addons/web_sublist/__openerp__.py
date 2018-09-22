@@ -26,7 +26,7 @@
     'name': 'Web SubList',
     'version': '11.11',
     "author": "zhengXiang",
-    "website": "http://www.osbzr.com",
+    "website": "http://www.yinbin.ink",
     'category': 'Technical Settings',
     'depends': [
         'web',

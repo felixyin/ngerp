@@ -8,10 +8,10 @@
 
 http://www.gooderp.org
 
-# GoodERP基于Python和Postgresql技术，是以AGPL3协议开发的自由软件，实现了中国中小企业关注的财务+进销存的核心功能，并支持二次开发模块化扩展，可能是中国用户数最多的开源ERP
+# NanguERP基于Python和Postgresql技术，是以AGPL3协议开发的自由软件，实现了中国中小企业关注的财务+进销存的核心功能，并支持二次开发模块化扩展，可能是中国用户数最多的开源ERP
 
 
-## 开阖软件发起的开源ERP项目
+## 尹彬发起的开源ERP项目
 
 > 如果你有一个苹果，我也有一个苹果，彼此交换后，你我还是一人一个苹果。
 
@@ -19,7 +19,7 @@ http://www.gooderp.org
 
 > 三个人呢？一百个人呢？
 
-## GoodERP功能范围
+## NanguERP功能范围
 
 ![img](https://static.oschina.net/uploads/space/2017/0602/002744_3Xms_1401104.png)
 
@@ -59,7 +59,7 @@ http://www.gooderp.org
 
 ## Who——谁来做GOODERP项目
 
-1. 项目经理：上海开阖软件有限公司 王剑峰
+1. 项目经理：尹彬 王剑峰
 
 2. 项目投资人：GOODERP认证业务伙伴 gooderp-partner
 

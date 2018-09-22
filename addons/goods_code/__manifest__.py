@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
-# Copyright 2018 上海开阖软件 ((http://www.osbzr.com).)
+# Copyright 2018 上海尹彬 ((http://www.yinbin.ink).)
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
     'name': 'GOODERP 商品编码唯一',
     'version': '11.11',
-    'author': '上海开阖软件',
+    'author': '上海尹彬',
     'maintainer': 'False',
-    'website': 'http://www.osbzr.com',
+    'website': 'http://www.yinbin.ink',
     'category': 'gooderp',
     'summary': '商品编号必输且不可重复',
     'description': """为了解决商品编号可能重复的问题""",

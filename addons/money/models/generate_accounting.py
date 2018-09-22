@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # ##############################################################################
 #
-#    Copyright (C) 2016  开阖软件(<http://www.osbzr.com>).
+#    Copyright (C) 2016  尹彬(<http://www.yinbin.ink>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as

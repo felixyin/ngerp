@@ -2,7 +2,7 @@
 	<data>
 		<!-- 项目数据 -->
 		<record id="project_gooderp" model="project">
-			<field name="name">GoodERP</field>
+			<field name="name">NanguERP</field>
 			<field name="code">gooderp</field>
         	<field name="type">project</field>
 		</record>

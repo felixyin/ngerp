@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    Auto reset sequence by year,month,day
-#    Copyright 2017 开阖软件 <www.osbzr.com>
+#    Copyright 2017 尹彬 <www.yinbin.ink>
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as

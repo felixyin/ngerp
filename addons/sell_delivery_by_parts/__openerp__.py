@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "GoodERP Sell Delivery by Parts模块",
-    'author': "开阖软件",
-    'website': "http://www.osbzr.com",
+    'name': "NanguERP Sell Delivery by Parts模块",
+    'author': "尹彬",
+    'website': "http://www.yinbin.ink",
     'category': 'gooderp',
-    'summary': 'GoodERP组合销售',
+    'summary': 'NanguERP组合销售',
     "description":
     '''
-                        该模块实现了 GoodERP 销售组合产品时自动出货子产品的功能。
+                        该模块实现了 NanguERP 销售组合产品时自动出货子产品的功能。
     ''',
     'version': '11.11',
     'application': True,

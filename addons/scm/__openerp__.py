@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 {
     'name': "GOODERP SCM模块",
-    'author': "开阖软件",
-    'website': "http://www.osbzr.com",
+    'author': "尹彬",
+    'website': "http://www.yinbin.ink",
     'category': 'gooderp',
-    'summary': 'GoodERP贸易行业解决方案',
+    'summary': 'NanguERP贸易行业解决方案',
     "description":
     '''
-                        该模块实现了 GoodERP 按需补货的功能。
+                        该模块实现了 NanguERP 按需补货的功能。
 
                         根据商品的现有库存及最低库存量，结合购货订单、采购入库单、销货订单、销售出库单、其他出入库单等，自动计算出商品的购货订单或者组装单。
     ''',

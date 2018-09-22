@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-# Copyright 2018 上海开阖软件 ((http://www.osbzr.com).)
+# Copyright 2018 上海尹彬 ((http://www.yinbin.ink).)
 
 {
     'name': 'GOODERP 招聘问卷',
     'version': '11.11',
-    'author': '上海开阖软件',
-    'website': 'http://www.osbzr.com',
+    'author': '上海尹彬',
+    'website': 'http://www.yinbin.ink',
     'category': 'gooderp',
     'summary': '招聘问卷',
     'description': """在招聘流程中使用问卷表格""",
