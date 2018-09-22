@@ -6,7 +6,7 @@
 		-->
 		<!-- 通用，所有NanguERP模块使用这个类别 -->
 		<record model="ir.module.category" id="Gooderp">
-			<field name="name">Gooderp</field>
+			<field name="name">Nanguerp</field>
 			<field name="sequence">1</field>
 		</record>
 		<!-- 以下为功能模块相关，给每个主菜单设置一个组便于理解 -->
