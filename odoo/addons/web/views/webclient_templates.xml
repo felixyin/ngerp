@@ -233,7 +233,7 @@
                         <t t-if="not disable_database_manager">
                             <a class="" href="/web/database/manager">Manage Databases</a> |
                         </t>
-                        <a href="https://www.yinbin.ink" target="_blank">Powered by <span>Odoo</span></a>
+                        <a href="http://www.yinbin.ink" target="_blank">Powered by <span>Odoo</span></a>
                     </div>
                 </div>
             </div>
