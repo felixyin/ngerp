@@ -1,10 +1,10 @@
-# Translation of Odoo Server.
+# Translation of Nanguerp Server.
 # This file contains the translation of the following modules:
 #	* app_odoo_customize
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0+e-20171107\n"
+"Project-Id-Version: Nanguerp Server 10.0+e-20171107\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-15 22:58+0000\n"
 "PO-Revision-Date: 2017-11-15 22:58+0000\n"
@@ -36,8 +36,8 @@ msgstr "激活开发者模式 (assets)"
 
 #. module: app_odoo_customize
 #: model:ir.model,name:app_odoo_customize.model_app_theme_config_settings
-msgid "App Odoo Customize settings"
-msgstr "App Odoo 自定义设置"
+msgid "App Nanguerp Customize settings"
+msgstr "App Nanguerp 自定义设置"
 
 #. module: app_odoo_customize
 #: model:ir.ui.view,arch_db:app_odoo_customize.view_app_theme_config_settings
@@ -190,12 +190,12 @@ msgstr "生产"
 
 #. module: app_odoo_customize
 #: model:ir.model.fields,field_description:app_odoo_customize.field_app_theme_config_settings_app_account_title
-msgid "My Odoo.com Account Title"
+msgid "My Nanguerp.com Account Title"
 msgstr "我的帐户显示标题"
 
 #. module: app_odoo_customize
 #: model:ir.model.fields,field_description:app_odoo_customize.field_app_theme_config_settings_app_account_url
-msgid "My Odoo.com Account Url"
+msgid "My Nanguerp.com Account Url"
 msgstr "我的帐户链接"
 
 #. module: app_odoo_customize
@@ -230,8 +230,8 @@ msgstr "销售"
 
 #. module: app_odoo_customize
 #: model:ir.model.fields,help:app_odoo_customize.field_app_theme_config_settings_app_system_name
-msgid "Setup System Name,which replace Odoo"
-msgstr "设置系统名称，取代Odoo"
+msgid "Setup System Name,which replace Nanguerp"
+msgstr "设置系统名称，取代Nanguerp"
 
 #. module: app_odoo_customize
 #: model:ir.model.fields,field_description:app_odoo_customize.field_app_theme_config_settings_app_show_documentation_dev
@@ -255,8 +255,8 @@ msgstr "显示我的帐户"
 
 #. module: app_odoo_customize
 #: model:ir.model.fields,field_description:app_odoo_customize.field_app_theme_config_settings_app_show_poweredby
-msgid "Show Powered by Odoo"
-msgstr "显示Powered by Odoo"
+msgid "Show Powered by Nanguerp"
+msgstr "显示Powered by Nanguerp"
 
 #. module: app_odoo_customize
 #: model:ir.model.fields,field_description:app_odoo_customize.field_app_theme_config_settings_app_show_debug
@@ -271,7 +271,7 @@ msgstr "显示快速多语言切换"
 #. module: app_odoo_customize
 #: model:ir.model.fields,field_description:app_odoo_customize.field_app_theme_config_settings_app_show_share
 msgid "Show Share Dashboard"
-msgstr "显示分享Odoo"
+msgstr "显示分享Nanguerp"
 
 #. module: app_odoo_customize
 #: model:ir.model.fields,field_description:app_odoo_customize.field_app_theme_config_settings_app_show_support
@@ -296,8 +296,8 @@ msgstr "Uncheck to hide the Enterprise tag"
 
 #. module: app_odoo_customize
 #: model:ir.model.fields,help:app_odoo_customize.field_app_theme_config_settings_app_show_share
-msgid "Uncheck to hide the Odoo Share Dashboard"
-msgstr "Uncheck to hide the Odoo Share Dashboard"
+msgid "Uncheck to hide the Nanguerp Share Dashboard"
+msgstr "Uncheck to hide the Nanguerp Share Dashboard"
 
 #. module: app_odoo_customize
 #: model:ir.model.fields,help:app_odoo_customize.field_app_theme_config_settings_app_show_poweredby

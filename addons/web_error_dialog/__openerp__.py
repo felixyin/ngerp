@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #     This file is part of web_readonly_bypass,
-#     an Odoo module.
+#     an Nanguerp module.
 #
 #     Copyright (c) 2015 ACSONE SA/NV (<http://acsone.eu>)
 #

@@ -11,8 +11,8 @@ class AppThemeConfigSettings(models.TransientModel):
     _inherit = 'res.config.settings'
     _name = 'app.theme.config.settings'
 
-    _description = u"App Odoo Customize settings"
-    app_system_name = fields.Char('System Name', help=u"Setup System Name,which replace Odoo")
+    _description = u"App Nanguerp Customize settings"
+    app_system_name = fields.Char('System Name', help=u"Setup System Name,which replace Nanguerp")
     app_show_lang = fields.Boolean('Show Quick Language Switcher',
                                    help=u"When enable,User can quick switch language in user menu")
     app_show_debug = fields.Boolean('Show Quick Debug', help=u"When enable,everyone login can see the debug menu")
@@ -22,14 +22,14 @@ class AppThemeConfigSettings(models.TransientModel):
     app_show_support = fields.Boolean('Show Support', help=u"When enable,User can vist your support site")
     app_show_account = fields.Boolean('Show My Account', help=u"When enable,User can login to your website")
     app_show_enterprise = fields.Boolean('Show Enterprise Tag', help=u"Uncheck to hide the Enterprise tag")
-    app_show_share = fields.Boolean('Show Share Dashboard', help=u"Uncheck to hide the Odoo Share Dashboard")
-    app_show_poweredby = fields.Boolean('Show Powered by Odoo', help=u"Uncheck to hide the Powered by text")
+    app_show_share = fields.Boolean('Show Share Dashboard', help=u"Uncheck to hide the Nanguerp Share Dashboard")
+    app_show_poweredby = fields.Boolean('Show Powered by Nanguerp', help=u"Uncheck to hide the Powered by text")
 
     app_documentation_url = fields.Char('Documentation Url')
     app_documentation_dev_url = fields.Char('Developer Documentation Url')
     app_support_url = fields.Char('Support Url')
-    app_account_title = fields.Char('My Odoo.com Account Title')
-    app_account_url = fields.Char('My Odoo.com Account Url')
+    app_account_title = fields.Char('My Nanguerp.com Account Title')
+    app_account_url = fields.Char('My Nanguerp.com Account Url')
 
     @api.model
     def get_default_all(self, fields):

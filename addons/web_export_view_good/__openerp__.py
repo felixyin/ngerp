@@ -23,7 +23,7 @@
     'name': 'Export Current View',
     'version': '11.11',
     'category': 'Web',
-    'author': "Agile Business Group,Odoo Community Association (OCA)",
+    'author': "Agile Business Group,Nanguerp Community Association (OCA)",
     'website': 'http://www.agilebg.com',
     'license': 'AGPL-3',
     'depends': ['base',

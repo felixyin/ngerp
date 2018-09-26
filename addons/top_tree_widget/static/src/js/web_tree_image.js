@@ -32,7 +32,7 @@ odoo.define('web.WebTreeImage', function (require) {
              field's value contains just the binary size and retrieve
             the image from the dedicated controller in that case.
             Otherwise, assume a character field containing either a
-            stock Odoo icon name without path or extension or a fully
+            stock Nanguerp icon name without path or extension or a fully
             fledged location or data url */
             if (!row_data[this.id] || !row_data[this.id].value) {
                 return '';
